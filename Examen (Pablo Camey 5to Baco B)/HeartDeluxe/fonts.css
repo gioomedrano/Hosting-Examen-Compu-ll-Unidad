@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?rx7bmy');
+    src:    url('fonts/icomoon.eot?rx7bmy#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?rx7bmy') format('truetype'),
+        url('fonts/icomoon.woff?rx7bmy') format('woff'),
+        url('fonts/icomoon.svg?rx7bmy#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-small-left:before {
+    content: "\e90a";
+}
+.icon-chevron-small-right:before {
+    content: "\e90b";
+}
+.icon-controller-paus:before {
+    content: "\e90c";
+}
+.icon-controller-play:before {
+    content: "\e90d";
+}
+.icon-home:before {
+    content: "\e9b8";
+}
+.icon-mail:before {
+    content: "\e9da";
+}
+.icon-tag:before {
+    content: "\e907";
+}
+.icon-star-outlined:before {
+    content: "\ea1c";
+}
+.icon-text:before {
+    content: "\e909";
+}
+.icon-facebook:before {
+    content: "\ea67";
+}
+.icon-google:before {
+    content: "\ea6d";
+}
+.icon-instagram:before {
+    content: "\e902";
+}
+.icon-man:before {
+    content: "\e9db";
+}
+.icon-twitter:before {
+    content: "\ea7c";
+}
+.icon-heart:before {
+    content: "\e9b5";
+}
+.icon-time-slot:before {
+    content: "\ea2d";
+}
+.icon-trophy:before {
+    content: "\ea31";
+}
+
